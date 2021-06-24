@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYvOSG1wrO30Dq3KRBNELofLAA1CG2hdb/cG2LivAxvjBCZ58RHVXybJodGlylSySnhnVV8xFEAuDR+dC/2KiA==",
+  "success": true,
+  "projectFilePath": "D:\\课程稿子\\编译原理\\大作业\\microc\\microc.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\60257\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\60257\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\60257\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
